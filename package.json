@@ -1,0 +1,19 @@
+{
+  "name": "virus",
+  "version": "1.0.0",
+  "description": "hyperapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyVirusss/virus.git"
+  },
+  "author": "CrazyVirusss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyVirusss/virus/issues"
+  },
+  "homepage": "https://github.com/CrazyVirusss/virus#readme"
+}
